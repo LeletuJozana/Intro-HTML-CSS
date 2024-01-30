@@ -1,1 +1,13 @@
-# Intro-HTML-CSS
+# Intro-HTML-CSS-Day1
+Studied the fundamentals of HTML, covering the structure and syntax for creating web pages, including elements, tags, and attributes.
+Studied the integrated functions of HTML, CSS, and JavaScript in web development, where HTML defines the structure, CSS styles the presentation, and JavaScript adds dynamic behavior, collectively enabling the creation of interactive and visually appealing websites.
+Also wrote a Knowledge Check task.
+Explored the basics of text formatting in HTML, which is a way of designing content on web pages. In this study, I covered the rules and structure of HTML elements, including how they can be placed inside each other (nested). Additionally, I gained hands-on experience by working with practical snippets of HTML code, allowing me to apply the concepts learned in real-world scenarios.
+I've learned about HTML paragraphs, and there are two important things. First, without using any special HTML code, browsers naturally treat separate lines of text as different paragraphs. Then, I studied how to make paragraphs with the <p> element. By putting text between <p> and </p> tags, you have more control over how the paragraphs look on a webpage. This helps to make the text organized and visually appealing.
+Learned to use <h1> to <h6> tags for creating headlines that establish a visual hierarchy and importance on web pages.
+I learned how to make text stand out by using italics with the <i> tag for emphasis and bold with the <b> tag for stronger impact. These tags help improve the visual appearance of content on web pages.
+In my study of HTML Lists, I explored the creation and structuring of lists on web pages. I learned about two main types: ordered lists using <ol> tags for numbered items, and unordered lists using <ul> tags for bulleted items. Within these lists, <li> tags were employed to define individual list items.
+I learned how to include quotes in web content using block and inline elements like <blockquote> and <q>. I also discovered the importance of citing sources with the <cite> tag. Additionally, I explored the use of <time> and <date> tags for incorporating temporal information.
+I learned how to include date and time input options in web forms using the <input> element with "date" and "time" types. This allows users to easily provide specific dates and times.
+In my HTML learning, I explored ways to display code on web pages using the <code> element. Additionally, I discovered the <pre> tag for preserving the formatting of pre-written text, like code, and the <br> tag for creating line breaks. These elements help maintain the structure and presentation of code snippets, enhancing readability on websites.
+I learned about enhancing text presentation using superscripts (<sup>) for raising text, subscripts (<sub>) for lowering text, and the <small> tag for reducing text size.
