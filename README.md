@@ -1,4 +1,5 @@
-# Intro-HTML-CSS-Day1
+# Intro-HTML-CSS-WEEK1
+# DAY1
 Studied the fundamentals of HTML, covering the structure and syntax for creating web pages, including elements, tags, and attributes.
 Studied the integrated functions of HTML, CSS, and JavaScript in web development, where HTML defines the structure, CSS styles the presentation, and JavaScript adds dynamic behavior, collectively enabling the creation of interactive and visually appealing websites.
 Also wrote a Knowledge Check task.
@@ -7,3 +8,18 @@ I've learned about HTML paragraphs, and there are two important things. First, w
 Learned to use <h1> to <h6> tags for creating headlines that establish a visual hierarchy and importance on web pages.
 I learned how to make text stand out by using italics with the <i> tag for emphasis and bold with the <b> tag for stronger impact. These tags help improve the visual appearance of content on web pages.
 In my study of HTML Lists, I explored the creation and structuring of lists on web pages. I learned about two main types: ordered lists using <ol> tags for numbered items, and unordered lists using <ul> tags for bulleted items. Within these lists, <li> tags were employed to define individual list items.
+
+# DAY2
+I have learned that in HTML, when you want to quote a larger section of text, you use <blockquote> to create a block quote, and if you want to mention the source of that quote, you can use <cite>. For shorter, inline quotes, you can use the <q> element. Additionally, when dealing with dates and times, HTML provides the <time> element for clear and structured representation.
+I learned how to include date and time input options in web forms using the <input> element with "date" and "time" types. This allows users to easily provide specific dates and times.
+In my HTML learning, I explored ways to display code on web pages using the <code> element. Additionally, I discovered the <pre> tag for preserving the formatting of pre-written text, like code, and the <br> tag for creating line breaks. These elements help maintain the structure and presentation of code snippets, enhancing readability on websites.
+I learned about enhancing text presentation using superscripts (<sup>) for raising text, subscripts (<sub>) for lowering text, and the <small> tag for reducing text size.
+I have studied troubleshooting and debugging in HTML, focusing on techniques such as HTML debugging code and utilizing Browser DevTools Inspector. This involves identifying and resolving issues in HTML code through systematic debugging methods, including the use of code inspection for problem diagnosis and resolution.
+Also learned that HTML attributes provide extra information for elements; global attributes, like class and ID, offer common functionalities, with class used for grouping and styling, and ID for unique identification.
+I have learned that Web accessibility involves ensuring that websites and online content are usable by people with disabilities. ARIA roles help define the roles of elements for assistive technologies, the browser accessibility tree organizes page content for accessibility tools, aiding users with disabilities in navigating and interacting with web content.
+
+# DAY3
+I have learned that HTML formatting involves using tags like <p> and <h1> to structure content, while comments (<!-- -->) allow for notes. HTML is case-insensitive, accepting both upper- and lowercase. Elements can be self-closing (e.g., <img>) or long with separate opening and closing tags (e.g., <p></p>). Extra spaces are maintained with &nbsp; or CSS white-space: pre.
+Unusual characters in coding are special symbols or letters that do different things. HTML code formatting is about making code look neat, and non-breaking spaces in HTML help keep words or parts of a sentence together on the same line.
+I learned that HTML Navigation and Linking is about connecting web pages so users can easily move around a website. I create links using the <a> tag, and the href attribute tells the link where to go. For instance, linking to other pages is like <a href="about.html">About Us</a>, linking to external websites is like <a href="https://www.example.com" target="_blank">Visit Example.com</a>, and creating smooth scrolling within a page is like <a href="#section2">Jump to Section 2</a>.
+Learned that HTML URL Pathways are like addresses for finding things on the internet. Creating URLs from scratch means making these addresses by putting together parts like the protocol, domain name, and specific pathway. When making local URLs, you create addresses that point to things within the same website or server, helping keep content organized.
